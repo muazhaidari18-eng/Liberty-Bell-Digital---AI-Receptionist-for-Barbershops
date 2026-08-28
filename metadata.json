@@ -1,0 +1,6 @@
+{
+  "name": "Liberty Bell Digital - AI Receptionist for Barbershops",
+  "description": "High-converting ad landing page for Liberty Bell Digital AI Receptionist tailored for barbershops and hair salons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
